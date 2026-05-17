@@ -18,6 +18,20 @@ The dashboard is structured around several critical business metrics:
 
 **Customer Segmentation:** Visualizes revenue distribution and cancellation behaviors across different customer types (Transient, Group, Contract, etc.).
 
+## 💡 Strategic Recommendations
+
+Based on the dashboard insights, here are the key business recommendations:
+
+**Fix Peak-Season Cancellations:** Summer brings the highest revenue but also the most cancellations. Implementing stricter cancellation policies during peak months can protect this revenue.
+
+**Encourage Early Bookings:** Bookings made over 30 days in advance have a lower cancellation rate (45%). We should offer perks or early-bird discounts to encourage people to book early.
+
+**Secure Advance Deposits:** For long-term bookings, introducing a small, non-refundable deposit will significantly cut down last-minute cancellations.
+
+**Balanced Marketing:** Use a mix of both online and offline marketing channels to expand reach and attract different customer segments.
+
+**Off-Season Promos:** To beat the winter slump, offer attractive discounts and extra services (like free breakfast or extended check-outs) to keep the rooms filled.
+
 
 
 
