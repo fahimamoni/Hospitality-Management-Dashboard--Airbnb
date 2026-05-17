@@ -32,6 +32,28 @@ Based on the dashboard insights, here are the key business recommendations:
 
 **Off-Season Promos:** To beat the winter slump, offer attractive discounts and extra services (like free breakfast or extended check-outs) to keep the rooms filled.
 
+## 🛠️ Tools & Technologies Used
+
+**Microsoft Excel:** For data cleaning, processing, and Pivot Table generation.
+
+**Excel Dashboards:** Advanced charting, dynamic slicing (Distribution Channel, Hotel, Customer Type), and UI design.
+
+**Data Visualization:** Bar charts, Combo charts (Line + Bar), Donut charts, and Stacked percentage bars.
+
+---
+
+## 📂 Project Structure
+* `/data`: Contains the raw/processed dataset (if applicable).
+* `Hospitality_Management_Dashboard.xlsx`: The main interactive Excel file.
+* `Dashboard_Preview.jpg`: Screenshot of the dashboard interface.
+
+---
+
+## 👤 Author
+**Fahima Akther Moni**
+*LinkedIn*
+https://www.linkedin.com/in/fahima-akther-moni
+
 
 
 
