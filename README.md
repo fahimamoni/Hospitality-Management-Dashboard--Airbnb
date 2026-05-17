@@ -2,10 +2,10 @@
 
 An interactive Excel Data Analytics dashboard designed to analyze revenue trends, cancellation behaviors, and customer segments for Airbnb hospitality management. This project focuses on identifying revenue loss factors and providing data-driven recommendations to optimize bookings and maximize profitability.
 
-## 📌 Project Overview
+# 📌 Project Overview
 This project analyzes a hospitality dataset from 2015 to uncover insights regarding seasonal revenue trends, distribution channels, and customer booking patterns. The primary goal is to understand the correlation between booking lead times, cancellation rates, and revenue impact.
 
-## 📊 Key Insights & Features
+# 📊 Key Insights & Features
 The dashboard is structured around several critical business metrics:
 
 **Revenue & Loss Trends:** Tracks monthly revenue peaks (highest in September) and quantifies revenue lost due to cancellations.
@@ -18,7 +18,7 @@ The dashboard is structured around several critical business metrics:
 
 **Customer Segmentation:** Visualizes revenue distribution and cancellation behaviors across different customer types (Transient, Group, Contract, etc.).
 
-## 💡 Strategic Recommendations
+# 💡 Strategic Recommendations
 
 Based on the dashboard insights, here are the key business recommendations:
 
@@ -32,17 +32,30 @@ Based on the dashboard insights, here are the key business recommendations:
 
 **Off-Season Promos:** To beat the winter slump, offer attractive discounts and extra services (like free breakfast or extended check-outs) to keep the rooms filled.
 
-## 🛠️ Tools & Technologies Used
+# 🛠️ Tools & Technologies Used
 
-**Microsoft Excel:** For data cleaning, processing, and Pivot Table generation.
+**Microsoft Excel:** 
+ - For data cleaning
+ - Processing  
+ - Pivot Table generation.
 
-**Excel Dashboards:** Advanced charting, dynamic slicing (Distribution Channel, Hotel, Customer Type), and UI design.
+**Excel Dashboards:** 
+ - Advanced charting
+ - Dynamic slicing (Distribution Channel,  Hotel, Customer Type)
+ - UI design.
 
-**Data Visualization:** Bar charts, Combo charts (Line + Bar), Donut charts, and Stacked percentage bars.
+**Data Visualization:** 
+ - Bar charts
+ - Combo charts (Line + Bar)
+ - Donut charts
+ - Stacked percentage bars.
 
 ---
 
-## 📂 Project Structure
+# 📷 Dashboard Screenshot
+
+
+# 📂 Project Structure
 * `/data`: Contains the raw/processed dataset (if applicable).
 * `Hospitality_Management_Dashboard.xlsx`: The main interactive Excel file.
 * `Dashboard_Preview.jpg`: Screenshot of the dashboard interface.
