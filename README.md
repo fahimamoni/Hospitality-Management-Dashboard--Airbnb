@@ -54,6 +54,7 @@ Based on the dashboard insights, here are the key business recommendations:
 
 # 📷 Dashboard Screenshot
 
+Hotel Management Booking Dasboard Pic.jpg
 
 # 📂 Project Structure
 * `/data`: Contains the raw/processed dataset (if applicable).
